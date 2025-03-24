@@ -3,6 +3,8 @@ import os
 
 #alteração
 
+#estou na teste2
+
 def imprime_livros(leitor, disponiveis=False, emprestados=False, procura_id=False, id=None, procura_editora=False, editora=None):
     next(leitor)
     tem_livros = False
